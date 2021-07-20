@@ -2,11 +2,11 @@
 
 > Working to make better meals for all mankind.
 
-I'm a student who majors in software engineering. 
+I'm a student who majors in software engineering. 🧙
 
-I'm proficient in machining such as cutting, milling, planing, grinding, casting, brazing, laser cutting, CNC machine tools and 3D pringting.
+I'm proficient in machining such as cutting, milling, planing, grinding, casting, brazing, laser cutting, CNC machine tools and 3D pringting.👨🏻‍🏭
 
-As I've mentioned above, see, I am indeed a qualified software engineering student.
+As I've mentioned above, see, I am indeed a qualified software engineering student.🙃
 
 - 🔭 I’m currently working on exams and leetcodes.
 - 🌱 I’m currently learning machine learning, Android development and Springboot.
