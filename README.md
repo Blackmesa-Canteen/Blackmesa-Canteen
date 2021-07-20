@@ -10,6 +10,6 @@ As I've mentioned above, see, I am indeed a qualified software engineering stude
 - 🌱 I’m currently learning machine learning, Android development and Springboot.
 - 📫 How to reach me: director@blackmesa-canteen.work
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
