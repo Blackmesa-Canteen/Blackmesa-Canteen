@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> Working to make better meals for all mankind.
+> 说你行你就行，不行也行；说不行就不行，行也不行。
 
 I'm a student who majors in software engineering. 🧙
 
