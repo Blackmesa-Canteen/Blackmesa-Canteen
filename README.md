@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 > I thought what i'do was i'd pretend I was one of those deaf-mutes...or shoud I?
+
 Graduate student of Software Engineering at the University of Melbourne. Completed Bachelor's degree of Mechatronic Engineering at Harbin Institute of Technology. 🧙
 
 - 🔭 I’m currently working on exams and leetcodes.
