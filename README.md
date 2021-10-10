@@ -2,7 +2,7 @@
 
 > I thought what I'd do was, I'd pretend I was one of those deaf-mutes... Or shoud I?
 
-Graduate student of Software Engineering at the University of Melbourne. Completed Bachelor's degree of Mechatronic Engineering at Harbin Institute of Technology. 🧙
+B.E. mechatronic engineering; Master candidate of Software Engineering.🧙
 
 - 🔭 I’m currently working on exams and leetcodes.
 - 🌱 I’m currently learning machine learning, Android development and Springboot.
