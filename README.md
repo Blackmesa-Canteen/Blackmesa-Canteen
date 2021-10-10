@@ -4,8 +4,6 @@
 
 B.E. mechatronic engineering; Master candidate of Software Engineering.🧙
 
-- 🔭 I’m currently working on exams and leetcodes.
-- 🌱 I’m currently learning machine learning, Android development and Springboot.
 - 📫 How to reach me: director@blackmesa-canteen.work
 - 🕸 Website: [www.996workers.icu](https://www.996workers.icu).
 ---
