@@ -2,7 +2,7 @@
 
 > I thought what I'd do was, I'd pretend I was one of those deaf-mutes... Or shoud I?
 
-B.E. mechatronic engineering; Master candidate of Software Engineering.🧙
+B.E. mechatronic engineering; Master candidate of Software Engineering. 🧙
 
 - 📫 How to reach me: director@blackmesa-canteen.work
 - 🕸 Website: [www.996workers.icu](https://www.996workers.icu).
