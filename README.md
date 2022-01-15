@@ -8,7 +8,7 @@ B.E. mechatronic engineering; Master candidate of Software Engineering. 🧙
 - 🕸 Website: [www.996workers.icu](https://www.996workers.icu).
 
 Can work efficiently with:
-- Java, Python, C, JavaScript, Go, C#.
+- Java, Python, Go, JavaScript, C, C#.
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/Blackmesa-Canteen)
 
