@@ -3,7 +3,7 @@
 > I thought what I'd do was, I'd pretend I was one of those deaf-mutes... Or shoud I?
 
 - B.E. mechatronic engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn);
-- Master candidate of Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au). 🧙
+- Master candidate of Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au). 
 
 ---
 
