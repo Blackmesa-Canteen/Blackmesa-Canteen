@@ -13,7 +13,7 @@
 ---
 
 Can work efficiently with:
-- Java, Python, Go, JavaScript, C, C#.
+- Java, Python, JavaScript, C, Go, C#.
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/Blackmesa-Canteen)
 
