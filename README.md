@@ -14,6 +14,11 @@
 
 Can work efficiently with:
 - Java, Python, JavaScript, C, Go, C#.
+I'd like to be:
+- Back-end developer;
+- Full-stack developer (It is quite challenging...);
+- Rich.
+
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/Blackmesa-Canteen)
 
