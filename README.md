@@ -19,7 +19,7 @@ Can work with:
 I'd like to be:
 - Back-end developer;
 - Full-stack developer (It is quite challenging...);
-- Rich.
+- Rich (Not a chance).
 
 Language:
 - Mandarin Chinese;
