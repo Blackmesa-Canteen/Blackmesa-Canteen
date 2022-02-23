@@ -14,6 +14,7 @@
 
 Can work efficiently with:
 - Java, Python, JavaScript, C, Go, C#.
+
 I'd like to be:
 - Back-end developer;
 - Full-stack developer (It is quite challenging...);
