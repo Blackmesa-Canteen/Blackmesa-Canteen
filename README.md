@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: admin@996workers.icu
 - 🕸 Website: [www.996workers.icu](https://www.996workers.icu).
-- 🐥 LinkedIn: [LinkIn Profile](https://www.linkedin.com/in/xiaotian-li-063821208/)
+- 🐥 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/xiaotian-li-063821208/)
 
 ---
 
