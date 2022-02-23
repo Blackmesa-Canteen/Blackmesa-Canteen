@@ -7,9 +7,9 @@
 
 ---
 
-- 📫 How to reach me: shaotienlee@foxmail.com (Not the login mail for GitHub, no cracking plz)
-- 🕸 Website: [www.996workers.icu](https://www.996workers.icu).
-- 🐥 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/xiaotian-li-063821208/)
+- 📫 How to reach me: shaotienlee@foxmail.com (Not the login mail for GitHub, no cracking plz);
+- 🕸 Website: [www.996workers.icu](https://www.996workers.icu);
+- 🐥 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/xiaotian-li-063821208/).
 
 ---
 
@@ -20,6 +20,11 @@ I'd like to be:
 - Back-end developer;
 - Full-stack developer (It is quite challenging...);
 - Rich.
+
+Language:
+- Mandarin Chinese;
+- Chinglish;
+- Chinpanese (Limited).
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/Blackmesa-Canteen)
