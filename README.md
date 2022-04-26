@@ -13,7 +13,7 @@
 
 ---
 
-I Can work efficiently with:
+I can work efficiently with:
 - Java, Python, JavaScript, C;
 
 I can work with:
