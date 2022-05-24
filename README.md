@@ -27,8 +27,7 @@ I'd like to be:
 
 Language:
 - Mandarin Chinese;
-- Chinglish;
-- Chinpanese (Limited).
+- English;
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/Blackmesa-Canteen)
