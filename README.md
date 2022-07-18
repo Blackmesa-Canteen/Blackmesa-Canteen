@@ -15,10 +15,7 @@
 ---
 
 I can work efficiently with:
-- Java, Python, JavaScript, C;
-
-I can work with:
-- Go, C#;
+- Java, Python, C#, JavaScript, C;
 
 I'd like to be:
 - Back-end developer. I can work with Spring Boot, Spring Cloud, MyBatis, Redis, Docker, Node.js and so on. I have taken several group projects in school. I also worked for a computer vision project in Python and a parallel computing project with MPI pattern.
