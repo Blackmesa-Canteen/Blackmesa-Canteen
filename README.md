@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I thought what I'd do was, I'd pretend I was one of those deaf-mutes... Or shoud I?
+> I am a student of Software enginnering and willing to get an internship or a job.
 
 - B.E. Mechatronic Engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn);
 - Master candidate of Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au). 
