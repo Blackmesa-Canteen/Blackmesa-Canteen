@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I am a student of Software enginnering and willing to get an internship or a job.
+> I am forever a student of Software enginnering, and keep learning for life-long.
 
 - B.E. Mechatronic Engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn);
 - Master candidate of Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au). 
