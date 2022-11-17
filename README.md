@@ -15,11 +15,11 @@
 ---
 
 I can work efficiently with:
-- Java, Python, C#, JavaScript, C;
+- Java, Python, JavaScript, C#, C;
 
 I'd like to be:
 - Back-end developer. I can work with Spring Boot, Spring Cloud, MyBatis, Redis, Docker, Node.js, Python Flask, PyQt5, .NET and so on. I have taken several group projects. I also worked for a computer vision project in Python and a parallel computing project with MPI pattern.
-- Full-stack developer. It is challenging, but I can learn a lot and enjoy it;
+- Full-stack developer. It is challenging, but I'm eager to learn and enjoy it;
 - I can also work as a front-end developer. I used to build up several projects with jQuery, bootstrap and React.js. however, I'm not so good at css styling and aesthetics stuff though.
 - Life-long learner. I'm happy to learn new things and solving problems with knowledge.
 - Rich (Not a chance).
