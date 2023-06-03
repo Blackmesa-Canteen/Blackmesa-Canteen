@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I am forever a student of Software engineering, and keep learning for life-long.
+> 不积跬步无以至千里, 不积小流无以成江海.
 
 - B.E. Mechatronic Engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn);
 - Master candidate of Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au). 
