@@ -7,7 +7,7 @@
 
 ---
 
-- 📫 How to reach me: leeshaotien@gmail.com;
+- 📫 How to reach me: blackmesa_canteen@riseup.net;
 - 🕸 Website: [www.996workers.icu](https://www.996workers.icu);
 - 🐥 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/xiaotian-li-063821208/);
 - 🧮 Algorithm: [LeetCode Profile](https://leetcode.cn/u/gorden-freeman/).
