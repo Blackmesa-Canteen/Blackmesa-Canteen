@@ -2,8 +2,8 @@
 
 > 不积跬步无以至千里, 不积小流无以成江海. A journey of a thousand miles may not be achieved without accumulation of each single step.
 
-- B.E. Mechatronic Engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn);
-- Master of Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au). 
+- BSE. Mechatronic Engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn) with high distinction;
+- MEng. Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au) with distinction. 
 
 ---
 
