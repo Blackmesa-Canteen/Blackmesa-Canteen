@@ -9,7 +9,7 @@
 ---
 
 - 📫 How to reach me: blackmesa_canteen@riseup.net;
-- 🕸 Website: [www.996workers.icu](https://www.996workers.icu) (Registry Locked for now, will be back soon);
+- 🕸 Website: [www.996workers.org](https://www.996workers.org);
 - 🐥 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/xiaotian-li-063821208/);
 - 🧮 Algorithm: [LeetCode Profile](https://leetcode.cn/u/gorden-freeman/).
 
