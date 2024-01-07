@@ -29,10 +29,5 @@ Language:
 - Mandarin Chinese;
 - English.
 
-If you have any job opportunities, I'm glad to have a discussion with you.
-
----
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&count_private=true)](https://github.com/Blackmesa-Canteen)
-
 
 
