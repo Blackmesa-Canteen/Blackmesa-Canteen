@@ -4,7 +4,7 @@
 
 - BSE. Mechatronic Engineering @ [Harbin Institute of Technology](http://www.hit.edu.cn) with distinction;
 - MEng. Software Engineering @ [The University of Melbourne](https://www.unimelb.edu.au) with distinction;
-- Junior software engineer in Australia.
+- Software engineer in Australia.
 
 ---
 
