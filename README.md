@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="250" src="./gits.gif">
+  <img width="250" src="./img/tachikoma.gif">
 </p>
 
 
