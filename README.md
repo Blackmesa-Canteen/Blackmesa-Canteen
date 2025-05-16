@@ -15,7 +15,6 @@
 
 - 📫 How to reach me: admin@996workers.org;
 - 🕸 Website: [www.996workers.org](https://www.996workers.org);
-- 🐥 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/xiaotian-li-063821208/);
 - 🧮 Algorithm: [LeetCode Profile](https://leetcode.cn/u/gorden-freeman/).
 
 ---
