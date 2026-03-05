@@ -19,18 +19,21 @@
 
 ### Tech Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Blackmesa-Canteen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmesa-Canteen&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Blackmesa-Canteen&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blackmesa-Canteen&theme=tokyonight" />
 </p>
 
 ### Connect with Me
