@@ -39,7 +39,7 @@
 ### Connect with Me
 
 - :globe_with_meridians: Website: [www.996workers.org](https://www.996workers.org)
-- :email: Email: admin@996workers.org
+- :email: Email: admin@996workers.org. Use PGP key below.
 - :abacus: LeetCode: [gorden-freeman](https://leetcode.cn/u/gorden-freeman/)
 
 ### PGP Public Key
