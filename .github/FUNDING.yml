@@ -1,1 +1,11 @@
-custom: ["https://etherscan.io/address/openjdk.eth"]
+# These are supported funding model platforms
+
+# GitHub Sponsors username
+# github: Blackmesa-Canteen
+
+# Custom donation links (up to 4)
+custom:
+  - https://etherscan.io/address/openjdk.eth
+
+# Crypto donations
+# ETH/EVM Address: openjdk.eth
