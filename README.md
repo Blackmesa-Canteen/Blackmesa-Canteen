@@ -54,6 +54,6 @@
 
 If you find my work helpful, consider buying me a coffee :coffee:
 
-<a href="https://etherscan.io/address/openjdk.eth">
-  <img src="https://img.shields.io/badge/ETH-openjdk.eth-6F4BB2?style=for-the-badge&logo=ethereum&logoColor=white" alt="ETH: openjdk.eth" />
+<a href="https://etherscan.io/address/0xDb7a8e608D4DBAd00a0A7E6e984C2A9baa9Bbeb5">
+  <img src="https://img.shields.io/badge/ETH-6F4BB2?style=for-the-badge&logo=ethereum&logoColor=white" alt="ETH:0xDb7a8e608D4DBAd00a0A7E6e984C2A9baa9Bbeb5" />
 </a>
